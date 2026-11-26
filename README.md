@@ -72,6 +72,7 @@ Pick one stack, run it for 30 days, measure one number. Adding tools is easy; ad
 - [Paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) — Scan, OCR, index and archive documents.
 - [Docling](https://github.com/docling-project/docling) — Turn PDFs and office documents into clean, structured data for AI pipelines.
 - [Invoice Ninja](https://github.com/invoiceninja/invoiceninja) — Invoicing, quotes, payments and expenses.
+- [Orkas](https://github.com/Orkas-AI/Orkas) — Local-first desktop AI workspace that coordinates specialist agents to turn business files into reports and presentations.
 
 ## Finance
 
